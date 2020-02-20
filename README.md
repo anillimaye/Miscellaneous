@@ -2,5 +2,5 @@
 
 A repository for small tricks and codes
 
-##Contents
+## Contents
 1. gaussian density plots
